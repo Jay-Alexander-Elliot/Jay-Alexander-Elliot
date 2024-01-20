@@ -6,8 +6,11 @@ I love collaborating with others to build cool and interesting projects. 👥
 I love hiking, the outdoors, reading, and CrossFit. 💪
 
 ## Find me at:
-- LinkedIn: [Jay-Alexander Elliot](https://www.linkedin.com/in/jayalexanderelliot/)
-- Personal Website: [jayalexanderelliot.com](https://jayalexanderelliot.com)
+- ProtonMail: [alexander.elliot.it@protonmail.com](mailto:alexander.elliot.it@protonmail.com)
+- LinkedIn: [Jay-Alexander Elliot](https://linkedin.com/in/jayalexanderelliot)
+- Stack Overflow: [jalexander](https://stackoverflow.com/users/15299511/jalexander)
+- Buy Me A Tea: ![Buy me a tea](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) [Support Me](https://www.buymeacoffee.com/jscribe)
+- Discord Server - Fuel Rod Studios: [Join the server](https://discord.gg/tbKWrmqkYw)
 
 ## Projects:
 - Veterinary Startup: Building services for [JaniePets](https://janiepets.com).
@@ -17,19 +20,25 @@ I love hiking, the outdoors, reading, and CrossFit. 💪
 ## Languages and Tools:
 <img align="left" alt="Python" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
 <img align="left" alt="AWS" width="46px" src="https://raw.githubusercontent.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/amazon.svg" />
-<img align="left" alt="GCP" width="46px" src="...URL for GCP..." />
 <img align="left" alt="Heroku" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" />
 <img align="left" alt="Golang" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" />
 <img align="left" alt="PostGres" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" />
 <img align="left" alt="Dart" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/programming%20languages/dart.svg" />
 <img align="left" alt="GCP-Firestore" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/cloud/firebase.svg" />
 <img align="left" alt="Ansible" width="46px" src="https://github.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/blob/master/cloud/ansible.svg" />
-<img align="left" alt="git" width="46px" src="...URL for git..." />
-<img align="left" alt="docker" width="46px" src="...URL for docker..." />
-<img align="left" alt="hashicorp" width="46px" src="...URL for hashicorp..." />
-<img align="left" alt="kubernetes" width="46px" src="...URL for kubernetes..." />
 <img align="left" alt="unreal engine" width="46px" src="https://raw.githubusercontent.com/Jay-Alexander-Elliot/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/tools/unreal-engine.svg" />
-<img align="left" alt="datadog" width="46px" src="...URL for datadog..." />
-<img align="left" alt="linux" width="46px" src="...URL for linux..." />
 
 <br clear="left"/>
+
+## Badges:
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![GNUPG Public Key](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD)
+![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Stack OverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
