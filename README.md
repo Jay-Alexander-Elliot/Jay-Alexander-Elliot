@@ -15,27 +15,37 @@
 </div>
 </div>
 
+<div align="center">
 # Hi there, I'm Jay-Alexander Elliot! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="55px" width="55px">
 
 I'm an AWS Certified DevOps engineer! I enjoy working with Python, Hashicorp tools, and cloud environments. I love collaborating with others to build cool and interesting projects.
+</div>
 
 ---
 
+<div align="center">
 ## **🙋‍♂️ About me**
+</div>
 
+<div align="center">
 - 🌱 I’m currently learning - Kubernetes; I've gone all in!
 - 🥅 2024 Goals - Strengthen my skills and knowledge in DevOps. Go to BYU and finish my Degree!
 - 💆‍♂️ Hobbies - Crossfit 🏋️‍♂️, Reading 📖, Drone Photography 🚁, & Meditation 🧘‍♂️  
 - I've a passion for developing and automating stuff.
+</div>
 
+<div align="center">
 ## 🚀 Projects:
 - Veterinary Startup: Building services for [JaniePets](https://janiepets.com).
 - Notary/Fingerprinting LLC: Building custom tools for [Mobile Legal Solutions](https://mobilelegalsolutions.com). Contact me if you need custom tools!
 - Game Studio: Co-creator of an "escape the island" style game at [FuelRod Studios](https://fuelrodstudios.com).
+</div>
 
 ---
 
+<div align="center">
 ## 🛠️ DevOps Tools and Technologies:
+</div>
 
 <p align="center" style="display: flex; align-items: center">
     <a href="https://aws.amazon.com/eks/" target="_blank" title="AWS EKS"><img width="45px" src="https://static-00.iconduck.com/assets.00/amazon-eks-icon-455x512-0zairb3r.png" alt="AWS EKS"/></a>
@@ -61,7 +71,9 @@ I'm an AWS Certified DevOps engineer! I enjoy working with Python, Hashicorp too
 </p>
 
 
+<div align="center">
 ## 💻 Scripting Languages:
+</div>
 
 <p align="center" style="display: flex; align-times: center">
     <a href="https://opensource.com/resources/what-bash" target="_blank" title="Bash"><img src="https://img.icons8.com/plasticine/60/000000/bash.png" alt="Bash"/></a>
@@ -73,7 +85,9 @@ I'm an AWS Certified DevOps engineer! I enjoy working with Python, Hashicorp too
 
 <br>
 
+<div align="center">
 ## **📊 Stats**
+</div>
 
  <div align="center" style="text-align:center">
     <a href="#">
@@ -122,7 +136,12 @@ I'm an AWS Certified DevOps engineer! I enjoy working with Python, Hashicorp too
 
 <br>
 
+<div align="center">
+
 _Made by **[Jay-Alexander Elliot](https://github.com/Jay-Alexander-Elliot)**_
 
 ![](https://komarev.com/ghpvc/?username=Jay-Alexander-Elliot&color=red)
 <a href="https://github.com/Jay-Alexander-Elliot?tab=followers"><img src="https://img.shields.io/github/followers/Jay-Alexander-Elliot?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</div>
+
