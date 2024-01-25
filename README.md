@@ -27,10 +27,10 @@ I'm an AWS Certified DevOps engineer! I enjoy working with Python, Hashicorp too
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning Kubernetes; I've gone all in!
-- 🥅 2024 Goals - Strengthen my skills and knowledge in DevOps. Go to BYU and finish my Degree!
-- 💆‍♂️ Hobbies - Crossfit 🏋️‍♂️, Reading 📖, Drone Photography 🚁, & Meditation 🧘‍♂️  
-- I've a passion for developing and automating stuff.
+ 🌱 I’m currently learning Kubernetes; I've gone all in!
+ 🥅 2024 Goals - Strengthen my skills and knowledge in DevOps. Go to BYU and finish my Degree!
+ 💆‍♂️ Hobbies - Crossfit 🏋️‍♂️, Reading 📖, Drone Photography 🚁, & Meditation 🧘‍♂️  
+ I've a passion for developing and automating stuff.
 
 </div>
 
@@ -38,9 +38,9 @@ I'm an AWS Certified DevOps engineer! I enjoy working with Python, Hashicorp too
 
 ## 🚀 Projects:
 
-- Veterinary Startup: Building services for [JaniePets](https://janiepets.com).
-- Notary/Fingerprinting LLC: Building custom tools for [Mobile Legal Solutions](https://mobilelegalsolutions.com). Contact me if you need custom tools!
-- Game Studio: Co-creator of an "escape the island" style game at [FuelRod Studios](https://fuelrodstudios.com).
+ Veterinary Startup: Building services for [JaniePets](https://janiepets.com).
+ Notary/Fingerprinting LLC: Building custom tools for [Mobile Legal Solutions](https://mobilelegalsolutions.com). Contact me if you need custom tools!
+ Game Studio: Co-creator of an "escape the island" style game at [FuelRod Studios](https://fuelrodstudios.com).
 
 </div>
 
